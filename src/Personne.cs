@@ -18,7 +18,7 @@ namespace src
 
         public string Infos()
         {
-            return nom + " " + prenom " ";
+            return nom + " " + prenom + " ";
         }
 
     }
